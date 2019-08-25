@@ -4,3 +4,4 @@ My name is LeiJun.
 Are you OK?
 Ok，
 I am OK,and you?
+Bye bye!
